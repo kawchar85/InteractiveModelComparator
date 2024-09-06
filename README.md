@@ -2,6 +2,11 @@
 
 This tool allows you to interactively compare output images from different machine learning models for a specific (computer vision) task, tested with the same dataset. 
 
+<p align="center">
+  <img src="static/images/demo.gif" alt="Demo of Interactive Model Comparator">
+</p>
+
+
 ## Features
 
 - **Interactive Comparison**: Keep output images from different models in the `static/images` folder. When you run the project, an image box will be displayed with tabs for each of your models. You can switch tabs by clicking the tab name or pressing the keys `[1]`, `[2]`, etc.
