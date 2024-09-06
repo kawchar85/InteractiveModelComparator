@@ -40,7 +40,7 @@ source venv/bin/activate
 Install the required dependencies:
 
 ```bash
-pip install "fastapi[standard]"
+pip install -r requirements.txt 
 ```
 
 ## Run the Project
